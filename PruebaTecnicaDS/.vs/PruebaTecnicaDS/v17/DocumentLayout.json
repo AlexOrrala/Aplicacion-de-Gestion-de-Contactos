@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\",
+  "WorkspaceRootPath": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|c:\\users\\alex_\\source\\repos\\pruebatecnicads\\pruebatecnicads\\gestordecontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|solutionrelative:pruebatecnicads\\gestordecontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|c:\\users\\alex_\\source\\repos\\pruebatecnicads\\pruebatecnicads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|c:\\users\\alex_\\documents\\github\\aplicacion-de-gestion-de-contactos\\pruebatecnicads\\pruebatecnicads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|solutionrelative:pruebatecnicads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|c:\\users\\alex_\\source\\repos\\pruebatecnicads\\pruebatecnicads\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|c:\\users\\alex_\\documents\\github\\aplicacion-de-gestion-de-contactos\\pruebatecnicads\\pruebatecnicads\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|solutionrelative:pruebatecnicads\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|c:\\users\\alex_\\documents\\github\\aplicacion-de-gestion-de-contactos\\pruebatecnicads\\pruebatecnicads\\gestordecontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA8632C-CF08-491F-86CE-7ED4F256E0FB}|PruebaTecnicaDS\\PruebaTecnicaDS.csproj|solutionrelative:pruebatecnicads\\gestordecontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GestorDeContactos.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\GestorDeContactos.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS\\GestorDeContactos.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaDS\\GestorDeContactos.cs",
-              "ToolTip": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\GestorDeContactos.cs*",
-              "RelativeToolTip": "PruebaTecnicaDS\\GestorDeContactos.cs*",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwFoAAABDAAAA",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS\\GestorDeContactos.cs",
+              "RelativeToolTip": "PruebaTecnicaDS\\GestorDeContactos.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowFoAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T13:26:27.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Contacto.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Contacto.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaDS\\Contacto.cs",
-              "ToolTip": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Contacto.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Contacto.cs",
               "RelativeToolTip": "PruebaTecnicaDS\\Contacto.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T12:55:13.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Program.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaDS\\Program.cs",
-              "ToolTip": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Program.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS\\Program.cs",
               "RelativeToolTip": "PruebaTecnicaDS\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAADgv1cAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T12:52:12.238Z",
               "EditorCaption": ""

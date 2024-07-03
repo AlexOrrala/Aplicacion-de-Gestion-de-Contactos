@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj": {}
+    "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj": {
+    "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj",
+        "projectUniqueName": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj",
         "projectName": "PruebaTecnicaDS",
-        "projectPath": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj",
+        "projectPath": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\PruebaTecnicaDS.csproj",
         "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex_\\source\\repos\\PruebaTecnicaDS\\PruebaTecnicaDS\\obj\\",
+        "outputPath": "C:\\Users\\alex_\\Documents\\GitHub\\Aplicacion-de-Gestion-de-Contactos\\PruebaTecnicaDS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

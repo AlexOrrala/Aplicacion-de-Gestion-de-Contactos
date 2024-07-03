@@ -12,3 +12,11 @@ C:\Users\alex_\source\repos\PruebaTecnicaDS\PruebaTecnicaDS\obj\Debug\net8.0\ref
 C:\Users\alex_\source\repos\PruebaTecnicaDS\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.pdb
 C:\Users\alex_\source\repos\PruebaTecnicaDS\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.genruntimeconfig.cache
 C:\Users\alex_\source\repos\PruebaTecnicaDS\PruebaTecnicaDS\obj\Debug\net8.0\ref\PruebaTecnicaDS.dll
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.AssemblyInfoInputs.cache
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.AssemblyInfo.cs
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.sourcelink.json
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.dll
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\refint\PruebaTecnicaDS.dll
+C:\Users\alex_\Documents\GitHub\Aplicacion-de-Gestion-de-Contactos\PruebaTecnicaDS\obj\Debug\net8.0\PruebaTecnicaDS.pdb

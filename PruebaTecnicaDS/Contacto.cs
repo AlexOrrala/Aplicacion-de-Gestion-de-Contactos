@@ -5,8 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace PruebaTecnicaDS
-{
+namespace PruebaTecnicaDS{
     public class Contacto{
         private string ID_Contacto;
         private string Nombre;
